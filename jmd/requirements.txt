@@ -1,0 +1,5 @@
+# No external dependencies required for core functionality
+# jmd uses only Python stdlib
+
+# Optional: for development/testing
+pytest>=7.0.0
